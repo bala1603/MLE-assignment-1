@@ -1,0 +1,71 @@
+Script started on 2024-03-09 12:15:53+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="51" LINES="32"]
+[?2004h]0;balamurugan@TIGER04435: ~[01;32mbalamurugan@TIGER04435[00m:[01;34m~[00m$ mkdir -p ~/miniconda3
+[?2004l[?2004h]0;balamurugan@TIGER04435: ~[01;32mbalamurugan@TIGER04435[00m:[01;34m~[00m$ [7mwget https://repo.anacond[27m[7ma[27m[7m.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -[27m[7mO[27m[7m ~/miniconda3/miniconda.sh[27m[A[Awget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
+[?2004l--2024-03-09 12:16:23--  https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+Resolving repo.anaconda.com (repo.anaconda.com)... 104.16.131.3, 104.16.130.3, 2606:4700:83b3:2c97:4ac6:488:6810:8203
+Connecting to repo.anaconda.com (repo.anaconda.com)|104.16.131.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 144041912 (137M) [application/octet-stream]
+Saving to: ‘/home/balamurugan/miniconda3/miniconda.sh’
+
+      /home/   0%       0  --.-KB/s                    /home/b   0%   1.37M  6.83MB/s                   /home/ba   2%   3.66M  9.15MB/s                  /home/bal   4%   6.15M  10.2MB/s                 /home/bala   6%   8.49M  10.5MB/s                /home/balam   7%  10.80M  10.7MB/s               /home/balamu   9%  13.65M  11.3MB/s               home/balamur  11%  16.35M  11.5MB/s               ome/balamuru  13%  19.18M  11.8MB/s               me/balamurug  16%  22.16M  12.1MB/s               e/balamuruga  17%  24.07M  11.8MB/s               /balamurugan  18%  25.52M  11.4MB/s               balamurugan/  20%  28.05M  11.5MB/s               alamurugan/m  22%  31.02M  11.7MB/s               lamurugan/mi  24%  33.87M  11.9MB/s               amurugan/min  26%  35.88M  11.7MB/s    eta 9s     murugan/mini  27%  38.24M  12.0MB/s    eta 9s     urugan/minic  29%  40.79M  12.2MB/s    eta 9s     rugan/minico  31%  43.57M  12.2MB/s    eta 9s     ugan/minicon  33%  45.54M  12.1MB/s    eta 9s     gan/minicond  34%  47.05M  11.8MB/s    eta 8s     an/miniconda  35%  48.24M  11.4MB/s    eta 8s     n/miniconda3  36%  49.63M  10.9MB/s    eta 8s     /miniconda3/  37%  52.02M  10.8MB/s    eta 8s     miniconda3/m  39%  54.40M  10.7MB/s    eta 8s     iniconda3/mi  41%  56.90M  10.6MB/s    eta 7s     niconda3/min  43%  59.37M  11.1MB/s    eta 7s     iconda3/mini  44%  61.46M  11.0MB/s    eta 7s     conda3/minic  45%  62.93M  10.5MB/s    eta 7s     onda3/minico  47%  65.02M  10.3MB/s    eta 7s     nda3/minicon  49%  67.43M  10.3MB/s    eta 6s     da3/minicond  50%  69.91M  10.4MB/s    eta 6s     a3/miniconda  52%  72.47M  10.4MB/s    eta 6s     3/miniconda.  54%  75.02M  10.2MB/s    eta 6s     /miniconda.s  56%  77.57M  10.4MB/s    eta 6s     miniconda.sh  57%  79.65M  10.6MB/s    eta 5s     iniconda.sh   59%  81.93M  10.7MB/s    eta 5s     niconda.sh    61%  84.77M  11.5MB/s    eta 5s     iconda.sh     63%  87.62M  11.7MB/s    eta 5s     conda.sh      65%  90.26M  11.8MB/s    eta 5s     onda.sh       67%  92.83M  11.8MB/s    eta 4s     nda.sh        69%  95.38M  11.8MB/s    eta 4s     da.sh         71%  97.54M  11.8MB/s    eta 4s     a.sh          73% 100.35M  12.3MB/s    eta 4s     .sh           74% 102.83M  12.3MB/s    eta 4s     sh            76% 105.71M  12.5MB/s    eta 3s     h             78% 108.46M  12.7MB/s    eta 3s                   80% 111.18M  12.7MB/s    eta 3s                /  82% 113.99M  12.8MB/s    eta 3s               /h  84% 116.50M  12.8MB/s    eta 3s              /ho  86% 119.07M  12.9MB/s    eta 2s             /hom  88% 121.57M  13.1MB/s    eta 2s            /home  90% 123.97M  12.9MB/s    eta 2s           /home/  92% 126.57M  12.9MB/s    eta 2s          /home/b  94% 129.19M  12.9MB/s    eta 2s         /home/ba  96% 131.88M  12.8MB/s    eta 0s        /home/bal  97% 134.22M  12.8MB/s    eta 0s       /home/bala  99% 136.91M  12.8MB/s    eta 0s     /home/balamu 100% 137.37M  13.0MB/s    in 12s     
+
+2024-03-09 12:16:35 (11.8 MB/s) - ‘/home/balamurugan/miniconda3/miniconda.sh’ saved [144041912/144041912]
+
+[?2004h]0;balamurugan@TIGER04435: ~[01;32mbalamurugan@TIGER04435[00m:[01;34m~[00m$ [7mbash ~/miniconda3/minicon[27m[7md[27m[7ma.sh -b -u -p ~/miniconda3[27m[Abash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+[?2004lPREFIX=/home/balamurugan/miniconda3
+Unpacking payload ...
+  0%|                       | 0/73 [00:00<?, ?it/s]Extracting : conda-package-handling-2.2.0-py312h06aExtracting : conda-package-streaming-0.9.0-py312h06Extracting : libcurl-8.5.0-h251f7ec_0.conda:   3%| Extracting : tqdm-4.65.0-py312he106c6f_0.conda:   4Extracting : ruamel.yaml-0.17.21-py312h5eee18b_0.coExtracting : libev-4.33-h7f8727e_1.conda:   7%| | 5Extracting : libuuid-1.41.5-h5eee18b_0.conda:   8%|Extracting : pycparser-2.21-pyhd3eb1b0_0.conda:  10Extracting : idna-3.4-py312h06a4308_0.conda:  11%| Extracting : tk-8.6.12-h1ccaba5_0.conda:  12%| | 9/Extracting : tk-8.6.12-h1ccaba5_0.conda:  14%|▏| 10Extracting : archspec-0.2.1-pyhd3eb1b0_0.conda:  14Extracting : libsolv-0.7.24-he621ea3_0.conda:  15%|Extracting : pybind11-abi-4-hd3eb1b0_1.conda:  16%|Extracting : pcre2-10.42-hebb0a14_0.conda:  18%|▏| Extracting : readline-8.2-h5eee18b_0.conda:  19%|▏|Extracting : tzdata-2023d-h04d1e81_0.conda:  21%|▏|Extracting : tzdata-2023d-h04d1e81_0.conda:  22%|▏|Extracting : cryptography-41.0.7-py312hdda0065_0.coExtracting : xz-5.4.5-h5eee18b_0.conda:  23%|▏| 17/Extracting : python-3.12.1-h996f2a0_0.conda:  25%|▏Extracting : icu-73.1-h6a678d5_0.conda:  26%|▎| 19/Extracting : libgomp-11.2.0-h1234567_1.conda:  27%|Extracting : libgomp-11.2.0-h1234567_1.conda:  29%|Extracting : ca-certificates-2023.12.12-h06a4308_0.Extracting : sqlite-3.41.2-h5eee18b_0.conda:  30%|▎Extracting : ld_impl_linux-64-2.38-h1181459_1.condaExtracting : libnghttp2-1.57.0-h2d74bed_0.conda:  3Extracting : reproc-cpp-14.2.4-h295c915_1.conda:  3Extracting : requests-2.31.0-py312h06a4308_1.conda:Extracting : zstd-1.5.5-hc292b87_0.conda:  37%|▎| 2Extracting : wheel-0.41.2-py312h06a4308_0.conda:  3Extracting : yaml-cpp-0.8.0-h6a678d5_0.conda:  40%|Extracting : fmt-9.1.0-hdb19cb5_0.conda:  41%|▍| 30Extracting : reproc-14.2.4-h295c915_1.conda:  42%|▍Extracting : platformdirs-3.10.0-py312h06a4308_0.coExtracting : packaging-23.1-py312h06a4308_0.conda: Extracting : _openmp_mutex-5.1-1_gnu.conda:  47%|▍|Extracting : menuinst-2.0.2-py312h06a4308_0.conda: Extracting : openssl-3.0.13-h7f8727e_0.conda:  49%|Extracting : pysocks-1.7.1-py312h06a4308_0.conda:  Extracting : pluggy-1.0.0-py312h06a4308_1.conda:  5Extracting : c-ares-1.19.1-h5eee18b_0.conda:  53%|▌Extracting : certifi-2024.2.2-py312h06a4308_0.condaExtracting : pip-23.3.1-py312h06a4308_0.conda:  56%Extracting : libedit-3.1.20230828-h5eee18b_0.conda:Extracting : cffi-1.16.0-py312h5eee18b_0.conda:  59Extracting : _libgcc_mutex-0.1-main.conda:  60%|▌| Extracting : libstdcxx-ng-11.2.0-h1234567_1.conda: Extracting : distro-1.8.0-py312h06a4308_0.conda:  6Extracting : zstandard-0.19.0-py312h5eee18b_0.condaExtracting : charset-normalizer-2.0.4-pyhd3eb1b0_0.Extracting : jsonpointer-2.1-pyhd3eb1b0_0.conda:  6Extracting : expat-2.5.0-h6a678d5_0.conda:  68%|▋| Extracting : jsonpatch-1.32-pyhd3eb1b0_0.conda:  70Extracting : conda-content-trust-0.2.0-py312h06a430Extracting : conda-24.1.2-py312h06a4308_0.conda:  7Extracting : libxml2-2.10.4-hf1b16e4_1.conda:  74%|Extracting : krb5-1.20.1-h143b758_1.conda:  75%|▊| Extracting : pycosat-0.6.6-py312h5eee18b_0.conda:  Extracting : urllib3-2.1.0-py312h06a4308_1.conda:  Extracting : brotli-python-1.0.9-py312h6a678d5_7.coExtracting : libmambapy-1.5.3-py312h2dafd23_0.condaExtracting : libffi-3.4.4-h6a678d5_0.conda:  82%|▊|Extracting : libssh2-1.10.0-hdbd6064_2.conda:  84%|Extracting : zlib-1.2.13-h5eee18b_0.conda:  85%|▊| Extracting : libgcc-ng-11.2.0-h1234567_1.conda:  86Extracting : libgcc-ng-11.2.0-h1234567_1.conda:  88Extracting : bzip2-1.0.8-h7b6447c_0.conda:  88%|▉| Extracting : truststore-0.8.0-py312h06a4308_0.condaExtracting : lz4-c-1.9.4-h6a678d5_0.conda:  90%|▉| Extracting : setuptools-68.2.2-py312h06a4308_0.condExtracting : boltons-23.0.0-py312h06a4308_0.conda: Extracting : libarchive-3.6.2-h6ac8c49_2.conda:  95Extracting : ncurses-6.4-h6a678d5_0.conda:  96%|▉| Extracting : conda-libmamba-solver-23.12.0-pyhd3eb1Extracting : libmamba-1.5.3-haf1ee3a_0.conda:  99%|                                                   
+Installing base environment...
+
+
+Downloading and Extracting Packages:
+
+
+Downloading and Extracting Packages:
+
+Preparing transaction: - \ | / - done
+Executing transaction: | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / done
+installation finished.
+[?2004h]0;balamurugan@TIGER04435: ~[01;32mbalamurugan@TIGER04435[00m:[01;34m~[00m$ [7mrm -rf ~/miniconda3/minic[27m[7mo[27m[7mnda.sh[27m[A]0;balamurugan@TIGER04435: ~[01;32mbalamurugan@TIGER04435[00m:[01;34m~[00m$ rm -rf ~/miniconda3/miniconda.sh
+[?2004l[?2004h]0;balamurugan@TIGER04435: ~[01;32mbalamurugan@TIGER04435[00m:[01;34m~[00m$ ls
+[?2004lassignment1_1_git        [0m[01;34mlibgit2[0m     [01;34mrepo1[0m
+assignment1_1_miniconda  [01;34mminiconda3[0m
+[?2004h]0;balamurugan@TIGER04435: ~[01;32mbalamurugan@TIGER04435[00m:[01;34m~[00m$ [7m~/miniconda3/bin/conda in[27m[7mi[27m[7mt bash[27m[A]0;balamurugan@TIGER04435: ~[01;32mbalamurugan@TIGER04435[00m:[01;34m~[00m$ ~/miniconda3/bin/conda init bash
+[?2004lno change     /home/balamurugan/miniconda3/condabin/conda
+no change     /home/balamurugan/miniconda3/bin/conda
+no change     /home/balamurugan/miniconda3/bin/conda-env
+no change     /home/balamurugan/miniconda3/bin/activate
+no change     /home/balamurugan/miniconda3/bin/deactivate
+no change     /home/balamurugan/miniconda3/etc/profile.d/conda.sh
+no change     /home/balamurugan/miniconda3/etc/fish/conf.d/conda.fish
+no change     /home/balamurugan/miniconda3/shell/condabin/Conda.psm1
+no change     /home/balamurugan/miniconda3/shell/condabin/conda-hook.ps1
+no change     /home/balamurugan/miniconda3/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /home/balamurugan/miniconda3/etc/profile.d/conda.csh
+modified      /home/balamurugan/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+[?2004h]0;balamurugan@TIGER04435: ~[01;32mbalamurugan@TIGER04435[00m:[01;34m~[00m$ [7m~/miniconda3/bin/conda in[27m[7mi[27m[7mt zsh[27m[A]0;balamurugan@TIGER04435: ~[01;32mbalamurugan@TIGER04435[00m:[01;34m~[00m$ ~/miniconda3/bin/conda init zsh
+[?2004lno change     /home/balamurugan/miniconda3/condabin/conda
+no change     /home/balamurugan/miniconda3/bin/conda
+no change     /home/balamurugan/miniconda3/bin/conda-env
+no change     /home/balamurugan/miniconda3/bin/activate
+no change     /home/balamurugan/miniconda3/bin/deactivate
+no change     /home/balamurugan/miniconda3/etc/profile.d/conda.sh
+no change     /home/balamurugan/miniconda3/etc/fish/conf.d/conda.fish
+no change     /home/balamurugan/miniconda3/shell/condabin/Conda.psm1
+no change     /home/balamurugan/miniconda3/shell/condabin/conda-hook.ps1
+no change     /home/balamurugan/miniconda3/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /home/balamurugan/miniconda3/etc/profile.d/conda.csh
+modified      /home/balamurugan/.zshrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+[?2004h]0;balamurugan@TIGER04435: ~[01;32mbalamurugan@TIGER04435[00m:[01;34m~[00m$ conda
+[?2004lconda: command not found
+[?2004h]0;balamurugan@TIGER04435: ~[01;32mbalamurugan@TIGER04435[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-03-09 12:19:15+05:30 [COMMAND_EXIT_CODE="127"]
